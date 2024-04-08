@@ -170,7 +170,7 @@ img {
 
 .grid {
   display: grid;
-  gap: 1.5rem;
+  gap: 1.0rem;
 }
 
 .header {
@@ -765,7 +765,7 @@ img {
 }
 
 .portfolio__content {
-  padding: 0 1.3rem;
+  padding: 0 0.5rem;
 }
 
 .portfolio__img {
@@ -1330,7 +1330,7 @@ img {
   }
 
   .portfolio__content {
-    column-gap: 5rem;
+    column-gap: 3rem;
   }
 
   .swiper-portfolio-icon {
